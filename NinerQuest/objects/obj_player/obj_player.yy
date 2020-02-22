@@ -5,50 +5,10 @@
     "name": "obj_player",
     "eventList": [
         {
-            "id": "5521bdc8-440e-4769-b871-f60b235f7e85",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 37,
-            "eventtype": 5,
-            "m_owner": "8f065209-efb8-45ce-b20f-4dd821d07897"
-        },
-        {
-            "id": "eebb8f1d-0ff4-45b3-a32f-76f2ae8b2f7d",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 39,
-            "eventtype": 5,
-            "m_owner": "8f065209-efb8-45ce-b20f-4dd821d07897"
-        },
-        {
-            "id": "e985d56e-63c3-4813-9882-6178688c61c7",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 38,
-            "eventtype": 5,
-            "m_owner": "8f065209-efb8-45ce-b20f-4dd821d07897"
-        },
-        {
-            "id": "75c0bbed-070b-41bc-b84d-c3a4def5380d",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 40,
-            "eventtype": 5,
-            "m_owner": "8f065209-efb8-45ce-b20f-4dd821d07897"
-        },
-        {
             "id": "ee41f3fe-8b15-46ed-9062-65c095e5a746",
             "modelName": "GMEvent",
             "mvc": "1.0",
-            "IsDnD": true,
+            "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 18,
             "eventtype": 5,
@@ -60,6 +20,46 @@
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "b634d523-d98b-40c7-8ba4-2539acfbec9b",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "8f065209-efb8-45ce-b20f-4dd821d07897"
+        },
+        {
+            "id": "21776305-5b44-4c79-a3a4-1aa2fda371c8",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 3,
+            "m_owner": "8f065209-efb8-45ce-b20f-4dd821d07897"
+        },
+        {
+            "id": "00cc0696-0ccd-4b1f-9b77-d2e010c1f858",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 2,
+            "eventtype": 3,
+            "m_owner": "8f065209-efb8-45ce-b20f-4dd821d07897"
+        },
+        {
+            "id": "6f10ead0-5555-4f90-878e-bb027bc3b2ce",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "f38fb2c6-9e49-45c1-8d77-1e204c0de4cd",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "8f065209-efb8-45ce-b20f-4dd821d07897"
+        },
+        {
+            "id": "e3c8fc46-de9d-41a5-a5a1-d1ba8e844243",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "70bee59d-a526-4916-929b-241b9bfb7136",
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "8f065209-efb8-45ce-b20f-4dd821d07897"
@@ -94,6 +94,20 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "has_axe",
+            "varType": 0
+        },
+        {
+            "id": "841dfae0-70ca-4bc4-b1e5-b354a8d9d10d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "3",
+            "varName": "walkSpeed",
             "varType": 0
         }
     ],
