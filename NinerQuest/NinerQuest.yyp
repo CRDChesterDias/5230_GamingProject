@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "007f8a40-3093-489a-88b1-e9ead2554183",
+            "Value": {
+                "id": "71558e8b-e13d-468e-9836-62d151de6db8",
+                "resourcePath": "sprites\/spr_room_door\/spr_room_door.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "012fe986-8886-4fde-81f0-6ccf64a17666",
             "Value": {
                 "id": "fa322485-c462-492f-9a24-b70079f1c90e",
@@ -130,7 +138,7 @@
             "Key": "3f816e46-9b20-4ec6-bed0-61d1f8575219",
             "Value": {
                 "id": "10729601-1eea-4fb1-8094-02e69d46732e",
-                "resourcePath": "objects\/object6\/object6.yy",
+                "resourcePath": "objects\/obj_room_border\/obj_room_border.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -327,6 +335,14 @@
             }
         },
         {
+            "Key": "a246eff9-ad3e-4f6e-9bce-f1e3d0e6720e",
+            "Value": {
+                "id": "ecffc358-c072-4f40-a28d-a38d636b69c4",
+                "resourcePath": "objects\/obj_room_door\/obj_room_door.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "51ce1f65-c1a1-4010-be6b-b67dc3e5147d",
@@ -420,14 +436,6 @@
                 "id": "758e9f47-c501-4306-8245-9af055733a36",
                 "resourcePath": "views\/d760ef01-fec4-4dda-add4-b45d835191b4.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "d85f08f6-7d07-4440-858e-14bb990f4115",
-            "Value": {
-                "id": "e96deee7-443e-4dab-b427-c49feba9e217",
-                "resourcePath": "sprites\/spr_lvl2_background\/spr_lvl2_background.yy",
-                "resourceType": "GMSprite"
             }
         },
         {

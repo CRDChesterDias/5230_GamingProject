@@ -2,7 +2,7 @@
     "id": "3f816e46-9b20-4ec6-bed0-61d1f8575219",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object6",
+    "name": "obj_room_border",
     "eventList": [
         
     ],
