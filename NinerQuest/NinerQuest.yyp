@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "82d9cefb-1813-4e5e-b241-84451b1d520c",
+            "Value": {
+                "id": "5d41ca11-b578-4487-be71-acbf75b81e0a",
+                "resourcePath": "sprites\\spr_player_leftWalk\\spr_player_leftWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "84015286-444a-4b9c-a369-51fa1e851804",
             "Value": {
                 "id": "d0a41025-b6bf-48a7-bae8-87b0bb7a7285",
@@ -499,6 +507,14 @@
             "Value": {
                 "id": "557f1bbc-a002-446f-9b62-780ef1d67320",
                 "resourcePath": "sprites\/spr_player_rt\/spr_player_rt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "93766836-5ff4-47c6-9c78-52182c7a4f51",
+            "Value": {
+                "id": "f906e32c-5935-4e83-a7ab-d8412d04440d",
+                "resourcePath": "sprites\\spr_player_rightWalk\\spr_player_rightWalk.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -599,6 +615,14 @@
             }
         },
         {
+            "Key": "ae83c249-4fbd-482d-b8fe-ec5abb5006d4",
+            "Value": {
+                "id": "b98e86ed-0351-45f9-8bce-40ad32117306",
+                "resourcePath": "sprites\\spr_player_frontWalk\\spr_player_frontWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ae8eb8d1-8177-479e-b4cf-e0aeea84ecf1",
             "Value": {
                 "id": "0e202a28-5a12-405f-a483-e39ff35c7331",
@@ -628,6 +652,14 @@
                 "id": "afeccd7d-77a4-4166-9d15-76658400997a",
                 "resourcePath": "objects\/obj_miner_axe\/obj_miner_axe.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b6f0e2aa-7e65-479d-ae38-397364a6b5a5",
+            "Value": {
+                "id": "44ac7aba-8f30-4a30-af84-3e2470e5fa0d",
+                "resourcePath": "sprites\\spr_player_backWalk\\spr_player_backWalk.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
