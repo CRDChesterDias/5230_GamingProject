@@ -375,6 +375,14 @@
             }
         },
         {
+            "Key": "4c8df4c2-deda-4754-8199-491d9e8d5d6a",
+            "Value": {
+                "id": "69a110c9-8aa3-437f-8f96-19fad3741e46",
+                "resourcePath": "sprites\\spr_lvl1_boss_front\\spr_lvl1_boss_front.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4ce3baea-04f7-4df7-87fd-8b3e28c88736",
             "Value": {
                 "id": "1f233601-b663-49f1-b644-aef23b0b7a8b",

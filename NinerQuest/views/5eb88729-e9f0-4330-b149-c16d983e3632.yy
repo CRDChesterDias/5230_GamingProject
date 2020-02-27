@@ -12,7 +12,8 @@
         "62b281b7-95d1-4d2a-a5b2-881810a5c3fa",
         "d3f21d8a-c693-4af2-abec-deaab1502593",
         "36168c84-2b6c-4014-8498-da083aeaa144",
-        "222ab5dc-6074-4ccb-95c1-b69f536395d8"
+        "222ab5dc-6074-4ccb-95c1-b69f536395d8",
+        "4c8df4c2-deda-4754-8199-491d9e8d5d6a"
     ],
     "filterType": "GMSprite",
     "folderName": "spr_monsters",
