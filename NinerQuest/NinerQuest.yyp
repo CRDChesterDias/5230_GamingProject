@@ -1087,6 +1087,14 @@
             }
         },
         {
+            "Key": "e0147908-ede6-483c-9c3a-ad829ce3d832",
+            "Value": {
+                "id": "8646c520-457a-4bb7-94d5-c4e1a1e772d9",
+                "resourcePath": "sprites\/spr_monsterhealthbar\/spr_monsterhealthbar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e05b398e-e7b0-4ccb-8710-6c2fef946e1d",
             "Value": {
                 "id": "2ee58e4d-8c60-4167-a8b0-9746e94b242c",
