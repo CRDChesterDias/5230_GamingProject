@@ -14,7 +14,9 @@
         "a8c058ae-894a-4c74-abd9-dbeeaa0589ff",
         "339dc695-1f90-44fc-91b7-7e72db4af83e",
         "4901a38a-cb17-4732-8271-d6b9000a5744",
-        "8343dbb1-4d8b-4cc8-a70f-7041c2b118f8"
+        "8343dbb1-4d8b-4cc8-a70f-7041c2b118f8",
+        "4f128197-29b1-4e7f-be15-cd0649bea00e",
+        "95fbc33b-ddef-4ec6-af42-ad61e0016e18"
     ],
     "filterType": "GMSprite",
     "folderName": "Lvl2_boss",
