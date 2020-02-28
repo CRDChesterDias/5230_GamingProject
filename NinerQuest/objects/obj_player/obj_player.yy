@@ -68,20 +68,10 @@
             "id": "fd19d546-7248-435b-a938-d288b59e15ed",
             "modelName": "GMEvent",
             "mvc": "1.0",
-            "IsDnD": true,
+            "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "8f065209-efb8-45ce-b20f-4dd821d07897"
-        },
-        {
-            "id": "0d6ec806-f011-4fdd-a273-ede7daf25216",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 32,
-            "eventtype": 9,
             "m_owner": "8f065209-efb8-45ce-b20f-4dd821d07897"
         }
     ],
@@ -128,6 +118,20 @@
             "resourceFilter": 1023,
             "value": "3",
             "varName": "walkSpeed",
+            "varType": 0
+        },
+        {
+            "id": "205e0289-cb44-424d-ad01-f83cdaa531c0",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "4",
+            "varName": "player_faces_direction",
             "varType": 0
         }
     ],
