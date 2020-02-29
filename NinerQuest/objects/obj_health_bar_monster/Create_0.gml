@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if (!variable_global_exists("hp_max")){
+if (!variable_global_exists("hp_monster")){
 hp_monster = 100;
 hp_max_monster = 100;
 }
