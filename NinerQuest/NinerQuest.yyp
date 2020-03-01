@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "072c04ed-5b40-4865-8231-8dc71787e2a4",
+            "Value": {
+                "id": "52b496e8-7fda-4054-a8ed-9c13137a6b95",
+                "resourcePath": "sprites\\spr_pedestal_wth_axe\\spr_pedestal_wth_axe.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "08175718-07b6-4381-881e-10e91d01f577",
             "Value": {
                 "id": "a6f5598f-9eaf-461f-b16f-c8097aae1c6e",
