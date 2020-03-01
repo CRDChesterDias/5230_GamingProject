@@ -12,9 +12,15 @@ if (goto_near_miner)
 if(goto_lvl1_rm1)
 {
 	room_goto(lvl1_rm1);
+	with(obj_player)
+	{
+		x = 545;
+		y = 754;
+		image_xscale = 0.6;
+		image_yscale = 0.6;
+	}	
 }
 if(goto_lvl2_rm1)
 {
-	room_goto(lvl2_rm2_boss);
-	
+	room_goto(lvl2_rm2_boss);	
 }

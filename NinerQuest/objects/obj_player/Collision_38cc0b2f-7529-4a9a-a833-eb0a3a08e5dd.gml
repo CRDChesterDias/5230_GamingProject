@@ -21,4 +21,3 @@ else if(sprite_index == spr_player_rt)
 	sprite_index = spr_player_rt_with_axe;
 	image_index = 0;
 }
-global.hp=50
