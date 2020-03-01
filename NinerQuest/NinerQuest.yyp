@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "5aa417a1-d658-453c-80db-807e46168779",
+            "Value": {
+                "id": "25d78bd5-4851-42ed-9ca8-12a181dcca9f",
+                "resourcePath": "sprites\\spr_lvl1_boss_backWalk\\spr_lvl1_boss_backWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5d9e5787-88c0-47d3-bdde-9e507f01af12",
             "Value": {
                 "id": "1ac55283-906a-496f-9347-5ad9665165f6",
@@ -1135,6 +1143,14 @@
             }
         },
         {
+            "Key": "d940ed30-1c85-4735-82c0-1b8eca0a599e",
+            "Value": {
+                "id": "53dda20f-088f-41de-9da7-32e6fbb7f9d4",
+                "resourcePath": "sprites\\spr_player_with_axe_leftWalk\\spr_player_with_axe_leftWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "db23d157-1942-42af-8d6a-02e3c9f4e2fe",
             "Value": {
                 "id": "25a8d082-348c-43e6-aa4b-d719204002b1",
@@ -1191,6 +1207,14 @@
             }
         },
         {
+            "Key": "e22bb98e-b4cc-4df1-9a51-af75cce71925",
+            "Value": {
+                "id": "357133d9-1755-4d1c-bd74-7102dfdc3698",
+                "resourcePath": "sprites\\spr_lvl1_boss_frontWalk\\spr_lvl1_boss_frontWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e41be6d9-8f8b-438a-a97e-4b871bcc4c02",
             "Value": {
                 "id": "528f40d5-0eab-4e99-9520-cc28fa241c8c",
@@ -1212,6 +1236,14 @@
                 "id": "983cd97e-2dbc-45ca-be39-3bb37705a1ba",
                 "resourcePath": "objects\/obj_entrance_lvl1_room0\/obj_entrance_lvl1_room0.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "eb9f5b04-693d-441c-a59d-a8d0de86229e",
+            "Value": {
+                "id": "04c30653-ad96-48b9-ae89-f51c16ba7d6f",
+                "resourcePath": "sprites\\spr_lvl1_boss_back\\spr_lvl1_boss_back.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
