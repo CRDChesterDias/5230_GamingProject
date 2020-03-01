@@ -463,6 +463,14 @@
             }
         },
         {
+            "Key": "606d949c-cd02-4ee1-b3e8-b72ad60c8ad9",
+            "Value": {
+                "id": "7e5e84fa-4b11-44be-b2a5-d7d03c355feb",
+                "resourcePath": "sprites\\spr_lvl1_boss_right\\spr_lvl1_boss_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6070a066-1643-4bb2-8e27-d5094d0b7206",
             "Value": {
                 "id": "760e0099-d8e2-4760-aa56-3a598780bc65",
@@ -831,6 +839,14 @@
             }
         },
         {
+            "Key": "9d83e5f1-11ad-494d-a39b-65889e6593a3",
+            "Value": {
+                "id": "82374aa4-c3c6-46b5-a0ba-8721e02103cd",
+                "resourcePath": "sprites\\spr_lvl1_boss_rightWalk\\spr_lvl1_boss_rightWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9ee45485-e018-413b-b4e8-147030cc3555",
             "Value": {
                 "id": "0d7a88f7-515b-4843-a651-3a748c3cd466",
@@ -1095,6 +1111,14 @@
             }
         },
         {
+            "Key": "d3289282-4606-44aa-a3e7-8c26829a86da",
+            "Value": {
+                "id": "93bd430c-29f0-4a48-adf5-66537e14920e",
+                "resourcePath": "sprites\\spr_lvl1_boss_leftWalk\\spr_lvl1_boss_leftWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d3f21d8a-c693-4af2-abec-deaab1502593",
             "Value": {
                 "id": "7512387a-b358-482d-9df3-2d4b22568481",
@@ -1275,6 +1299,14 @@
             "Value": {
                 "id": "0f34e089-da98-4814-9d33-939cbbb33040",
                 "resourcePath": "sprites\/spr_player_lt\/spr_player_lt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f6b87691-ff22-416c-8009-c9b4b9c69682",
+            "Value": {
+                "id": "0a68b252-acb0-4115-a9a5-cae601d186a8",
+                "resourcePath": "sprites\\spr_lvl1_boss_left\\spr_lvl1_boss_left.yy",
                 "resourceType": "GMSprite"
             }
         },
