@@ -4,7 +4,8 @@
     "mvc": "1.1",
     "name": "08175718-07b6-4381-881e-10e91d01f577",
     "children": [
-        "f38fb2c6-9e49-45c1-8d77-1e204c0de4cd"
+        "f38fb2c6-9e49-45c1-8d77-1e204c0de4cd",
+        "7c3e4d23-91c7-482c-a4a6-2371c683fe37"
     ],
     "filterType": "GMObject",
     "folderName": "Block",
