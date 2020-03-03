@@ -567,6 +567,14 @@
             }
         },
         {
+            "Key": "6924eacd-6102-4a92-9303-b63e90bc6ec2",
+            "Value": {
+                "id": "329ef9f5-4283-45bd-b86c-f968cbedb470",
+                "resourcePath": "timelines\/timeline_generate_obstacles\/timeline_generate_obstacles.yy",
+                "resourceType": "GMTimeline"
+            }
+        },
+        {
             "Key": "69c9082d-2a4a-469a-ab24-ef4f5bb17209",
             "Value": {
                 "id": "448a00d1-2e80-40da-a634-2aa510727aa6",
@@ -620,6 +628,14 @@
                 "id": "276d7d0f-73ca-434b-a919-b11dc79f16e3",
                 "resourcePath": "views\/72b4796b-eeee-434d-bf89-85df119d3d0e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "734bcf76-ef55-4a68-b6a0-ed9509efc815",
+            "Value": {
+                "id": "2e904676-215b-4627-a411-d83f3260ade7",
+                "resourcePath": "objects\/obj_rock_big_shadow\/obj_rock_big_shadow.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -879,6 +895,14 @@
             }
         },
         {
+            "Key": "9a5103c0-2962-4556-a4b8-c05cd9b9eb58",
+            "Value": {
+                "id": "8ae31ac0-f1ce-44c3-ac93-bc2b253cb302",
+                "resourcePath": "sprites\/spr_rock_big_shadow\/spr_rock_big_shadow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9af71494-7c18-4521-9d8d-ef75d371ed4a",
             "Value": {
                 "id": "04ff7624-9f30-4c1d-b2da-06e3d43fc72f",
@@ -988,6 +1012,14 @@
                 "id": "d993d9b2-5eef-4b6a-b849-d7282a7ede84",
                 "resourcePath": "sprites\/spr_monster_6\/spr_monster_6.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "aa28b5ee-a3c4-4145-94fe-3d2c7cefb128",
+            "Value": {
+                "id": "5520db9a-3a20-4699-b3db-de6f5946a858",
+                "resourcePath": "objects\/obj_rock_big\/obj_rock_big.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1143,6 +1175,14 @@
             }
         },
         {
+            "Key": "cae8d22d-7168-460d-ac62-c411a8191fdc",
+            "Value": {
+                "id": "8713fc07-c7f9-4d6c-ad30-f6da5bc23065",
+                "resourcePath": "views\/cae8d22d-7168-460d-ac62-c411a8191fdc.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "00e70dfc-fc19-410e-a297-94ff6a60894c",
@@ -1191,11 +1231,27 @@
             }
         },
         {
+            "Key": "d3b176a9-b5af-4fc7-87fc-23be8e376756",
+            "Value": {
+                "id": "c2e48ad3-10e5-4db7-9e63-31c098671acf",
+                "resourcePath": "sprites\/spr_rock_big\/spr_rock_big.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d3f21d8a-c693-4af2-abec-deaab1502593",
             "Value": {
                 "id": "7512387a-b358-482d-9df3-2d4b22568481",
                 "resourcePath": "sprites\/spr_monsterBackWalk\/spr_monsterBackWalk.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d41dbe03-7526-42aa-a951-6de38b08a280",
+            "Value": {
+                "id": "3d79c6c4-ad4c-4d6b-baee-4508379614d9",
+                "resourcePath": "views\/d41dbe03-7526-42aa-a951-6de38b08a280.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

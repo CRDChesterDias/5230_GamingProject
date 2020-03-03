@@ -1,19 +1,10 @@
 {
-    "id": "01e4a36c-c9cf-4648-86de-5361c3d12abc",
+    "id": "734bcf76-ef55-4a68-b6a0-ed9509efc815",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_monster_full",
+    "name": "obj_rock_big_shadow",
     "eventList": [
-        {
-            "id": "f6574d31-5050-4234-af5a-a2179ce0a9e1",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "01e4a36c-c9cf-4648-86de-5361c3d12abc"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "4ce3baea-04f7-4df7-87fd-8b3e28c88736",
-    "visible": false
+    "spriteId": "9a5103c0-2962-4556-a4b8-c05cd9b9eb58",
+    "visible": true
 }
