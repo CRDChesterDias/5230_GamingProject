@@ -7,7 +7,8 @@
         "474da80e-61db-4d10-8858-198648b8779a",
         "18b8d226-720e-47ee-80c3-50c6a21fa842",
         "e9ec5cb8-3aa5-450f-a173-0933330a4453",
-        "5e9a0a42-3536-40cf-b0d4-72dabfd314be"
+        "5e9a0a42-3536-40cf-b0d4-72dabfd314be",
+        "4072eb32-b819-4005-89ca-916e9c9c923e"
     ],
     "filterType": "GMObject",
     "folderName": "obj_lvl1",

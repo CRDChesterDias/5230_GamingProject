@@ -367,6 +367,14 @@
             }
         },
         {
+            "Key": "4072eb32-b819-4005-89ca-916e9c9c923e",
+            "Value": {
+                "id": "f84ae38e-f186-4b0c-84b2-f7470c368eed",
+                "resourcePath": "objects\\obj_door_lvl1_room2_entrance\\obj_door_lvl1_room2_entrance.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4369864d-6b20-4383-bdfe-d5a5fdab0e98",
             "Value": {
                 "id": "b29d9ac2-eeb5-4203-b03d-aeb992839f58",
