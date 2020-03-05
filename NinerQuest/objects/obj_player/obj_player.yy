@@ -93,6 +93,36 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "8f065209-efb8-45ce-b20f-4dd821d07897"
+        },
+        {
+            "id": "fd8aa695-655d-4259-8331-2f8b29ed58ee",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 32,
+            "eventtype": 5,
+            "m_owner": "8f065209-efb8-45ce-b20f-4dd821d07897"
+        },
+        {
+            "id": "36caa620-136f-4811-a55a-c6da9e75f474",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "8f065209-efb8-45ce-b20f-4dd821d07897"
+        },
+        {
+            "id": "17dce126-4d72-4fbc-a912-200fd874c312",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "01e4a36c-c9cf-4648-86de-5361c3d12abc",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "8f065209-efb8-45ce-b20f-4dd821d07897"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -152,6 +182,34 @@
             "resourceFilter": 1023,
             "value": "4",
             "varName": "player_faces_direction",
+            "varType": 0
+        },
+        {
+            "id": "b9238e7d-1062-4207-8462-8274a052c808",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1",
+            "varName": "can_shoot",
+            "varType": 1
+        },
+        {
+            "id": "20f5426e-b4c5-4a14-a6ff-322b63fb15e4",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": ".2",
+            "varName": "lvl2_moster_attack_health_reduce",
             "varType": 0
         }
     ],

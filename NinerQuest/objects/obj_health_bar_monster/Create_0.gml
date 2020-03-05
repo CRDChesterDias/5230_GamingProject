@@ -2,8 +2,8 @@
 // You can write your code in this editor
 
 if (!variable_global_exists("hp_monster")){
-hp_monster = 100;
-hp_max_monster = 100;
+global.hp_monster = 100;
+global.hp_max_monster = 100;
 }
 
 health_bar_width = 175
