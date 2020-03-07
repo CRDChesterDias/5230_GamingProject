@@ -3,5 +3,5 @@
     "modelName": "GMShader",
     "mvc": "1.0",
     "name": "shader_player",
-    "type": 1
+    "type": 2
 }

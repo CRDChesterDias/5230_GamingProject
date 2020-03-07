@@ -16,6 +16,17 @@ if(!instance_exists(obj_miner_axe) && obj_player.has_axe == 0)
 
 	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
+	/// @DnDHash : 2A7A0ED0
+	/// @DnDParent : 28431AD9
+	/// @DnDArgument : "xpos_relative" "1"
+	/// @DnDArgument : "ypos" "y-sprite_yoffset"
+	/// @DnDArgument : "ypos_relative" "1"
+	/// @DnDArgument : "objectid" "obj_dialogueController"
+	/// @DnDSaveInfo : "objectid" "14c808d0-fcdc-4366-a945-e46154f498d8"
+	instance_create_layer(x + 0, y + y-sprite_yoffset, "Instances", obj_dialogueController);
+
+	/// @DnDAction : YoYo Games.Instances.Create_Instance
+	/// @DnDVersion : 1
 	/// @DnDHash : 59F5D5A2
 	/// @DnDParent : 28431AD9
 	/// @DnDArgument : "xpos" "50"
