@@ -1,18 +1,18 @@
 {
-    "id": "474da80e-61db-4d10-8858-198648b8779a",
+    "id": "18b8d226-720e-47ee-80c3-50c6a21fa842",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_switch_lvl1",
+    "name": "obj_door_lvl1_rm1",
     "eventList": [
         {
-            "id": "f5702ea1-1964-4b47-bd85-8658b8ece7b8",
+            "id": "24f9515d-9def-4c3f-8c94-d17f322c3440",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "8f065209-efb8-45ce-b20f-4dd821d07897",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "474da80e-61db-4d10-8858-198648b8779a"
+            "m_owner": "18b8d226-720e-47ee-80c3-50c6a21fa842"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -31,23 +31,8 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": [
-        {
-            "id": "06e3b523-f1b6-40fb-9378-16b5490164e2",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "lvl1_rm1_door_open",
-            "varType": 0
-        }
-    ],
+    "properties": null,
     "solid": true,
-    "spriteId": "19de38d9-ae9c-4073-96ab-3c725f5daf5e",
+    "spriteId": "a64d28c0-5a1e-4ea2-b29e-9ddb05fd2805",
     "visible": true
 }

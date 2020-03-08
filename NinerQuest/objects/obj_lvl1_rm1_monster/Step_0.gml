@@ -1,4 +1,4 @@
-if(monster_lvl1_rm1_hp <= 0)
+if(monster_lvl1_hp <= 0)
 {
 	instance_destroy();
 }

@@ -7,7 +7,8 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "9c4157b2-6f9d-4101-9b23-dc5739cadde7"
+        "39b4e66d-8487-42d0-afcb-72337e22dad7",
+        "7a675d88-3680-46c9-8042-4e252eccde14"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +26,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_7AEE161A","id": "9c4157b2-6f9d-4101-9b23-dc5739cadde7","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_7AEE161A","objId": "18b8d226-720e-47ee-80c3-50c6a21fa842","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 960,"y": 128}
+{"name": "inst_584DAD6","id": "39b4e66d-8487-42d0-afcb-72337e22dad7","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_584DAD6","objId": "eef4bf55-84e3-48d0-9e16-7f3e9599ab7d","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 960,"y": 128},
+{"name": "inst_78D614F8","id": "7a675d88-3680-46c9-8042-4e252eccde14","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_78D614F8","objId": "7487a37e-1e63-4c7d-9f99-149730e40172","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 672,"y": 224}
             ],
             "layers": [
 
@@ -45,7 +47,7 @@
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
-            "hierarchyVisible": true,
+            "hierarchyVisible": false,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
@@ -116,7 +118,7 @@
             },
             "tilesetId": "67562215-bb53-4018-9cb6-3c434a9ffb10",
             "userdefined_depth": false,
-            "visible": true,
+            "visible": false,
             "x": 0,
             "y": 0
         },

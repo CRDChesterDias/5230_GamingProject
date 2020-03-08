@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "021240bc-7d90-449a-ae30-1355942b6aca",
+            "Value": {
+                "id": "c0a66f91-1445-4dfe-b31d-0187e98321d2",
+                "resourcePath": "paths\\monster_path_rectangle\\monster_path_rectangle.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "072c04ed-5b40-4865-8231-8dc71787e2a4",
             "Value": {
                 "id": "52b496e8-7fda-4054-a8ed-9c13137a6b95",
@@ -146,7 +154,7 @@
             "Key": "18b8d226-720e-47ee-80c3-50c6a21fa842",
             "Value": {
                 "id": "7e77ee66-b3a2-4a35-b812-c6299bc68e41",
-                "resourcePath": "objects\/obj_door_lvl1\/obj_door_lvl1.yy",
+                "resourcePath": "objects\\obj_door_lvl1_rm1\\obj_door_lvl1_rm1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -716,6 +724,14 @@
                 "id": "f9b9ab87-5fed-4bab-82c6-576fa6bc5aa2",
                 "resourcePath": "tilesets\/tileset_brickDarker\/tileset_brickDarker.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "7487a37e-1e63-4c7d-9f99-149730e40172",
+            "Value": {
+                "id": "d2dc7212-f5b7-4dd4-b563-5881608be3ff",
+                "resourcePath": "objects\\obj_lvl1_rm2_boss\\obj_lvl1_rm2_boss.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1495,6 +1511,14 @@
             }
         },
         {
+            "Key": "eef4bf55-84e3-48d0-9e16-7f3e9599ab7d",
+            "Value": {
+                "id": "e567cc29-0ce7-4c77-bca9-9923c7098d58",
+                "resourcePath": "objects\\obj_door_lvl1_rm2\\obj_door_lvl1_rm2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ef733572-576c-4e85-84e8-2edab65fed9a",
             "Value": {
                 "id": "a6d4282f-ba3b-4602-8ea6-7787b2a9b80d",
@@ -1572,6 +1596,14 @@
                 "id": "a82c7b61-3b19-4cd8-8052-17a1765b8b62",
                 "resourcePath": "views\/fd698b30-c803-4be9-9c13-ff81ade615b0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fe301f92-8423-4872-af8c-58a52f755128",
+            "Value": {
+                "id": "90588966-3645-4f56-a633-262569ee64e2",
+                "resourcePath": "objects\\obj_lvl1_rm1_final_monster\\obj_lvl1_rm1_final_monster.yy",
+                "resourceType": "GMObject"
             }
         },
         {

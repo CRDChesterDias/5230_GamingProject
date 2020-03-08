@@ -63,7 +63,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "5",
-            "varName": "monster_lvl1_rm1_hp",
+            "varName": "monster_lvl1_hp",
             "varType": 0
         },
         {
@@ -77,7 +77,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "monster_lvl1_rm1_path",
+            "varName": "monster_lvl1_path",
             "varType": 0
         },
         {
@@ -91,7 +91,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "1",
-            "varName": "monster_lvl1_rm1_speed",
+            "varName": "monster_lvl1_speed",
             "varType": 0
         }
     ],
