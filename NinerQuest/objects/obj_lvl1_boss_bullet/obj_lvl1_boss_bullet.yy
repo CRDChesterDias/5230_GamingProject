@@ -1,18 +1,38 @@
 {
-    "id": "474da80e-61db-4d10-8858-198648b8779a",
+    "id": "cc37dbea-b962-4ef3-b829-809f0fd5d946",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_switch_lvl1",
+    "name": "obj_lvl1_boss_bullet",
     "eventList": [
         {
-            "id": "f5702ea1-1964-4b47-bd85-8658b8ece7b8",
+            "id": "5b2b0c2a-f240-4ad7-b0c6-6e0528a2763e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "cc37dbea-b962-4ef3-b829-809f0fd5d946"
+        },
+        {
+            "id": "276f5b93-4e87-45cd-94e4-989a9e79e5a6",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "8f065209-efb8-45ce-b20f-4dd821d07897",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "474da80e-61db-4d10-8858-198648b8779a"
+            "m_owner": "cc37dbea-b962-4ef3-b829-809f0fd5d946"
+        },
+        {
+            "id": "8ae991e9-1d12-4414-b519-551a2f09ed39",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 7,
+            "m_owner": "cc37dbea-b962-4ef3-b829-809f0fd5d946"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,7 +53,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "aaba50bc-43d4-45f1-bc41-71b112615e63",
+            "id": "24741be6-e679-454a-98e4-072b48123e7a",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -42,12 +62,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
-            "varName": "lvl1_rm1_door_open",
+            "value": "6",
+            "varName": "speed_lvl1_boss_bullet",
             "varType": 0
         }
     ],
-    "solid": true,
-    "spriteId": "19de38d9-ae9c-4073-96ab-3c725f5daf5e",
+    "solid": false,
+    "spriteId": "93a1feac-6908-49c6-bada-f83bc78cb492",
     "visible": true
 }

@@ -927,6 +927,14 @@
             }
         },
         {
+            "Key": "93a1feac-6908-49c6-bada-f83bc78cb492",
+            "Value": {
+                "id": "ad01a1fa-8ec8-467f-b040-311acf8a5b2e",
+                "resourcePath": "sprites\\spr_lvl1_boss_bullet\\spr_lvl1_boss_bullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "941e71da-7053-45d8-9da9-d8f8c8b1c912",
             "Value": {
                 "id": "c188c134-482c-46ec-88ab-f63a15cefe59",
@@ -1284,6 +1292,14 @@
                 "id": "8713fc07-c7f9-4d6c-ad30-f6da5bc23065",
                 "resourcePath": "views\/cae8d22d-7168-460d-ac62-c411a8191fdc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cc37dbea-b962-4ef3-b829-809f0fd5d946",
+            "Value": {
+                "id": "7b44c5dc-f70d-4880-ab68-360025a7fd8c",
+                "resourcePath": "objects\\obj_lvl1_boss_bullet\\obj_lvl1_boss_bullet.yy",
+                "resourceType": "GMObject"
             }
         },
         {

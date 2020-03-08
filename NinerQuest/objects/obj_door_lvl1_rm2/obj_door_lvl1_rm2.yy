@@ -5,7 +5,7 @@
     "name": "obj_door_lvl1_rm2",
     "eventList": [
         {
-            "id": "7e6f86c3-df2a-49e3-8024-03d8a3effec5",
+            "id": "bae95c45-af0d-4040-8a32-d4205c4c2b93",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -17,7 +17,7 @@
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "18b8d226-720e-47ee-80c3-50c6a21fa842",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

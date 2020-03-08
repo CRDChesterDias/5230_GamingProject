@@ -1,4 +1,3 @@
-
 if(sprite_index == spr_switch_lvl1_rm1_locked)
 {
 	sprite_index = spr_switch_lvl1_rm1_open;
