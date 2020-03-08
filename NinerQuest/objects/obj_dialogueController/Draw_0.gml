@@ -9,8 +9,8 @@ if(global.dialog_sequence==0){
 	    next = true;
 	}
 	scr_get_dialogue(next);
-	x = 30+camera_get_view_x(view_camera[0]);
-	y = 30+camera_get_view_y(view_camera[0]);
+	x = 500+camera_get_view_x(view_camera[0]);
+	y = 400+camera_get_view_y(view_camera[0]);
 }
 
 if(global.dialog_sequence==1){
@@ -23,8 +23,8 @@ if keyboard_check_pressed(vk_enter) {
 
 scr_get_dialogue(next);
 
-x = 30+camera_get_view_x(view_camera[0]);
-y = 30+camera_get_view_y(view_camera[0]);
+x = 500+camera_get_view_x(view_camera[0]);
+y = 800+camera_get_view_y(view_camera[0]);
 
 }
 
@@ -35,4 +35,4 @@ draw_set_halign(fa_left);
 draw_sprite(spr_dialogueBox,0, x, y);
 
 // Draw  lines into the dialogue box.
-draw_text_ext(x+18, y+10, string_hash_to_newline(dialogue_output), 18, 450);
+draw_text_ext(x-230, y-45, string_hash_to_newline(dialogue_output), 18, 450);
