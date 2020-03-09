@@ -22,5 +22,11 @@ if(goto_lvl1_rm1)
 }
 if(goto_lvl2_rm1)
 {
-	room_goto(lvl2_rm2_boss);	
+	room_goto(lvl2_rm1);	
+		with(obj_player)
+	{
+		x = 840;
+		y = 180;
+		
+	}
 }
