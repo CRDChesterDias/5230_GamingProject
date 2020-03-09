@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "3eb39d3d-6b82-41a8-8278-cbbeb40479ae",
+            "Value": {
+                "id": "dc31dc80-5e59-4bde-b6e9-57009e468eb3",
+                "resourcePath": "views\/3eb39d3d-6b82-41a8-8278-cbbeb40479ae.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "3efb79b1-d03b-40f3-8d6e-1f92dc03c195",
             "Value": {
                 "id": "02239a4e-2d9f-4c82-9d09-be02253d9c5b",
@@ -842,7 +850,7 @@
             "Key": "82d9cefb-1813-4e5e-b241-84451b1d520c",
             "Value": {
                 "id": "5d41ca11-b578-4487-be71-acbf75b81e0a",
-                "resourcePath": "sprites\\spr_player_rightWalk\\spr_player_rightWalk.yy",
+                "resourcePath": "sprites\/spr_player_rightWalk\/spr_player_rightWalk.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -946,7 +954,7 @@
             "Key": "93766836-5ff4-47c6-9c78-52182c7a4f51",
             "Value": {
                 "id": "f906e32c-5935-4e83-a7ab-d8412d04440d",
-                "resourcePath": "sprites\\spr_player_leftWalk\\spr_player_leftWalk.yy",
+                "resourcePath": "sprites\/spr_player_leftWalk\/spr_player_leftWalk.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1004,6 +1012,14 @@
                 "id": "f4d1046b-c7a0-4018-a42a-57bae606f6ab",
                 "resourcePath": "sprites\/spr_player_lt_axe_attack1\/spr_player_lt_axe_attack1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "99114f02-2237-4a57-9d87-dc6862ca93cd",
+            "Value": {
+                "id": "bba996f4-2f9f-4308-b2df-bebfecc797bf",
+                "resourcePath": "objects\/obj_gameOver\/obj_gameOver.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1364,6 +1380,14 @@
                 "id": "9ca650cb-04a1-431d-82a8-1cfdc4b16df0",
                 "resourcePath": "views\/d0e25025-9dee-4ed6-9e8d-b3b19bb61e9e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d2ac0297-994b-426d-ae33-6565ff9c0ae3",
+            "Value": {
+                "id": "8c3fce37-0b16-494e-aca8-f9b51d5f9126",
+                "resourcePath": "rooms\/room5\/room5.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

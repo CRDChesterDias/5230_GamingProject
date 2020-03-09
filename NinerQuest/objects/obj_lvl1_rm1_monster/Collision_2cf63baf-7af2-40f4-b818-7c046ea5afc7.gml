@@ -13,3 +13,7 @@ if(instance_exists(obj_player))
 		}
 	}
 }
+
+if(global.hp < 1){
+	room_goto(room5)
+}
