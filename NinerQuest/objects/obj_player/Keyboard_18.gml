@@ -30,3 +30,7 @@ if(goto_lvl2_rm1)
 		
 	}
 }
+if(keyboard_check_pressed(ord("Z")))
+{
+	instance_activate_object(obj_lvl2_entrance);
+}

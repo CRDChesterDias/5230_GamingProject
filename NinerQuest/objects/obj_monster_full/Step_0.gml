@@ -5,3 +5,5 @@ if(distance_to_object(obj_player) < 400){
 	direction = point_direction( self.x, self.y, obj_player.x, obj_player.y)
 	speed = 2
 }
+else 
+speed = 0;
