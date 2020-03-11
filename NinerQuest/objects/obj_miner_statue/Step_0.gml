@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(position_meeting(x-1,y-sprite_yoffset-1,obj_player)||position_meeting(x+1,y-sprite_yoffset-1,obj_player)||position_meeting(x+1,y+sprite_yoffset+1,obj_player)||position_meeting(x-1,y+sprite_yoffset+1,obj_player)){
+if(distance_to_object(obj_player)<=15){
 if(!instance_exists(obj_miner_axe) && obj_player.has_axe == 0)
 {
 	with(obj_miner_axe) {
