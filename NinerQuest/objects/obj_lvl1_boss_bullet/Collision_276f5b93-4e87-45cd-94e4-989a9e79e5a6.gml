@@ -4,6 +4,7 @@ if(instance_exists(obj_player))
 	if(place_meeting(x,y,obj_player))
 	{
 		global.hp -= 5;
+		instance_create_depth(x,y,-1000, obj_blood)
 	}
 }
 instance_destroy();

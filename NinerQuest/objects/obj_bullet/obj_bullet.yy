@@ -72,7 +72,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "10",
+            "value": "8",
             "varName": "lvl2_monster_health_reduce",
             "varType": 0
         }

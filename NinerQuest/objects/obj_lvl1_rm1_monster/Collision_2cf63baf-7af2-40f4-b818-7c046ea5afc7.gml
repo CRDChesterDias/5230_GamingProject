@@ -10,10 +10,13 @@ if(instance_exists(obj_player))
 		else if(obj_player.has_axe == 0 || !keyboard_check(vk_space))
 		{
 			global.hp -= 0.2;
+			instance_create_depth(x,y,-1000, obj_blood)
+			
 		}
 	}
 }
 
 if(global.hp < 1){
 	room_goto(room5)
+	instance_destroy(other)
 }

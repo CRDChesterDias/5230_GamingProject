@@ -5,7 +5,7 @@ part_emitter=part_emitter_create(part_system)
 
 part_type=part_type_create()
 part_type_sprite(part_type,spr_monster_assembler,false,false,false)
-part_emitter_region(part_system,part_emitter,global.r2x-70,global.r2x+200,global.r2y-60,global.r2y+200,ps_shape_ellipse,ps_distr_gaussian)
+part_emitter_region(part_system,part_emitter,416-70,416+200,167-60,167+200,ps_shape_ellipse,ps_distr_gaussian)
 
 part_emitter_stream(part_system,part_emitter,part_type,1)
 

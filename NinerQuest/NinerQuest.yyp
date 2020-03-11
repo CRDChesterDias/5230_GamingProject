@@ -1623,6 +1623,14 @@
             }
         },
         {
+            "Key": "f35c791f-f97a-43f4-92ca-70ca15599e8a",
+            "Value": {
+                "id": "3a173097-e2b9-41ac-a3dc-bfff8ad47dd2",
+                "resourcePath": "objects\/obj_blood\/obj_blood.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f38fb2c6-9e49-45c1-8d77-1e204c0de4cd",
             "Value": {
                 "id": "852a1530-9c93-459b-8c59-545fff9058e0",
