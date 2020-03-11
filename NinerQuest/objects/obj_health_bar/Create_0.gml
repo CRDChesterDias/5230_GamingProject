@@ -2,9 +2,9 @@
 // You can write your code in this editor
 
 if (!variable_global_exists("hp_max")){
-global.hp = 100;
-global.hp_max = 100;
-global.dialog_sequence = 0;
+	global.hp = 100;
+	global.hp_max = 100;
+	global.dialog_sequence = 0;
 
 }
 if(global.dialog_sequence==0){
