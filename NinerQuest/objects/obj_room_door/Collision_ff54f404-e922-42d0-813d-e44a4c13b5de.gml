@@ -3,6 +3,10 @@
 if(image_index == 4 && room == lvl2_rm1){
 	
 	room_goto(lvl2_rm2_boss);
+	
+	audio_stop_all();
+	audio_play_sound(snd_lvl2rm2_wretchedDestroyer, 0, 1);
+	
 	with(obj_player){
 		x = 916
 		y = 436
