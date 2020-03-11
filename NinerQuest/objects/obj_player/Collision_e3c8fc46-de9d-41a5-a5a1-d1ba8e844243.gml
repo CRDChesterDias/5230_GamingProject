@@ -9,5 +9,5 @@ other.depth=-10;
 }
 else{
 self.depth = global.player_depth_temp;
-other.depth= 10;
+other.depth= inst_tree_focus.depth;
 }

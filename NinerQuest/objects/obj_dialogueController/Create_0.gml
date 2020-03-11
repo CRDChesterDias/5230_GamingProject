@@ -75,3 +75,29 @@ scr_start_dialogue(id, intro_text);
 
 
 }
+
+if(room==room0fireworks){
+	
+instance_deactivate_object(obj_player);
+frame = 0;
+dialogue = [];
+dialogue_line = 0;
+fetch = false;
+dialogue_lines = "";
+
+intro_text = scr_add_dialogue("Press 'Enter' key to get the next line.", true);
+scr_add_dialogue("Oh hey! Looks like you have finally restored the balance.", true);
+scr_add_dialogue("Great Job on this.You have played well.Game Over!!!!.",true);
+scr_add_dialogue("---------Credits----------", true);
+scr_add_dialogue("Trees - Original trees by C. Nilsson and recolored by William. Thompsonj opengameart.org",true);
+scr_add_dialogue("Grass - geloescht opengameart.org",true);
+scr_add_dialogue("2D Circle Graphic Archive art by Daniel Cook opengameart.org",true);
+scr_add_dialogue("Animated Castle Door by Tuomo Untinen opengameart.org",true);
+scr_add_dialogue("Game artwork by Snehal and Chester",true);
+scr_add_dialogue("Created by Aparajitha Sriram, Akshay Babu, Snehal Kulkarni, Chester Dias",true);
+scr_add_dialogue("Press 'Escape' key...", true);
+scr_start_dialogue(id, intro_text);
+
+
+
+}
