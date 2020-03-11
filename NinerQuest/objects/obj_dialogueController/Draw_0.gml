@@ -1,32 +1,15 @@
 /// @description Draw Dialogues
 
-if(global.dialog_sequence==0){
-	frame += delta_time/1000000;
-
-	// Press 'Enter' key to get next dialogue.
-	var next = false;
-	if keyboard_check_pressed(vk_enter) {
-	    next = true;
-	}
-	scr_get_dialogue(next);
-	x = 500+camera_get_view_x(view_camera[0]);
-	y = 400+camera_get_view_y(view_camera[0]);
-}
-
-if(global.dialog_sequence==1){
 frame += delta_time/1000000;
 
+	// Press 'Enter' key to get next dialogue.
 var next = false;
 if keyboard_check_pressed(vk_enter) {
-    next = true;
+	    next = true;
 }
-
 scr_get_dialogue(next);
-
 x = 500+camera_get_view_x(view_camera[0]);
-y = 800+camera_get_view_y(view_camera[0]);
-
-}
+y = 400+camera_get_view_y(view_camera[0]);
 
 // Set the dialogues left alligned.
 draw_set_halign(fa_left); 

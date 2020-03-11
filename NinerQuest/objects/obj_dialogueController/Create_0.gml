@@ -1,6 +1,8 @@
 /// @description Create Dialogues
 
 // Deacivate the player object when General narration is displayed.
+
+show_debug_message(string(global.dialog_sequence));
 if(global.dialog_sequence==0){
 instance_deactivate_object(obj_player);
 frame = 0;
@@ -38,5 +40,38 @@ scr_add_dialogue("“These ogres very dangerous and hence you will need a weapon
 scr_add_dialogue("Press 'Escape' key...", true);
 
 scr_start_dialogue(id, intro_text);
-show_debug_message("enter dialog 2");
+}
+
+if(global.dialog_sequence==2){
+	
+instance_deactivate_object(obj_player);
+frame = 0;
+dialogue = [];
+dialogue_line = 0;
+fetch = false;
+dialogue_lines = "";
+
+intro_text = scr_add_dialogue("Press 'Enter' key to get the next line.", true);
+scr_add_dialogue("You have defeated one of the monsters in the top ranks. Thus, your weapon has been upgraded.", true);
+scr_add_dialogue("Press 'Escape' key...", true);
+scr_start_dialogue(id, intro_text);
+
+}
+if(global.dialog_sequence==3){
+	
+instance_deactivate_object(obj_player);
+frame = 0;
+dialogue = [];
+dialogue_line = 0;
+fetch = false;
+dialogue_lines = "";
+
+intro_text = scr_add_dialogue("Press 'Enter' key to get the next line.", true);
+scr_add_dialogue("Oh hey! Looks like you have defeated a few monsters now! ", true);
+scr_add_dialogue("Good, but now you need to look in the underground mines to find the bigger monsters. Probably killing them might give us more idea of how to get the permanent solution for this problem.");
+scr_add_dialogue("Press 'Escape' key...", true);
+
+scr_start_dialogue(id, intro_text);
+
+
 }

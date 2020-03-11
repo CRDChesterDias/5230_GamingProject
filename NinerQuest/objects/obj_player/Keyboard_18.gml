@@ -11,7 +11,8 @@ if (goto_near_miner)
 }
 if(goto_lvl1_rm1)
 {
-	room_goto(lvl1_rm1);
+	room_goto(lvl1_rm2);
+	has_axe=1;
 	with(obj_player)
 	{
 		x = 545;
@@ -23,6 +24,8 @@ if(goto_lvl1_rm1)
 if(goto_lvl2_rm1)
 {
 	room_goto(lvl2_rm1);	
+	has_axe=1;
+	can_shoot=1;
 		with(obj_player)
 	{
 		x = 840;
@@ -33,4 +36,8 @@ if(goto_lvl2_rm1)
 if(keyboard_check_pressed(ord("Z")))
 {
 	instance_activate_object(obj_lvl2_entrance);
+}
+if(keyboard_check_pressed(ord("P")))
+{
+	room_goto(room0fireworks);
 }

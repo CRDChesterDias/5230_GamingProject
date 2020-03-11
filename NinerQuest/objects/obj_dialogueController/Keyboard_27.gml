@@ -1,10 +1,13 @@
 /// @description Remove Dialogue Box
 
 // Reactivate the player object.
+
+
+global.dialog_sequence = global.dialog_sequence + 1;
 instance_activate_object(obj_player);
 
-global.dialog_sequence += 1;
+
 
 //scr_clear();
 // Destroy the instance.
-instance_destroy(id);
+instance_destroy(self);

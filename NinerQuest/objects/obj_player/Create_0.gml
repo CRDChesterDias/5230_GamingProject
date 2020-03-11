@@ -6,5 +6,6 @@ enum facing_direction
 	down
 }
 global.player_depth_temp=self.depth;
+
 instance_deactivate_object(obj_lvl2_entrance);
 player_faces_direction = facing_direction.down;

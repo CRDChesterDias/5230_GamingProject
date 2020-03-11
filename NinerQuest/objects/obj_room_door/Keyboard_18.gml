@@ -3,5 +3,5 @@
 ;
 
 if(keyboard_check_pressed(ord("A"))){
-image_speed=1;
+	image_speed = 1;
 }

@@ -7,3 +7,8 @@ if(distance_to_object(obj_player) < 400){
 }
 else 
 speed = 0;
+
+
+if(global.hp_monster==0){
+instance_destroy(self);
+}
