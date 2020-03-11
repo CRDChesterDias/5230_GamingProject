@@ -62,7 +62,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "6",
+            "value": "20",
             "varName": "speed_lvl1_boss_bullet",
             "varType": 0
         }

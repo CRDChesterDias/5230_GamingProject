@@ -5,7 +5,7 @@ if(instance_exists(obj_player))
 	{
 		if(obj_player.has_axe == 1 && keyboard_check(vk_space))
 		{
-			monster_lvl1_hp -= 5;
+			monster_lvl1_hp -= 2;
 		}
 		else if(obj_player.has_axe == 0 || !keyboard_check(vk_space))
 		{
