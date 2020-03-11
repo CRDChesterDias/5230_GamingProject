@@ -4,5 +4,3 @@ audio_play_sound(snd_lvl2Boss_monsterGrowl, 0, 0);
 instance_deactivate_object(obj_player);
 
 room_goto(room0fireworks);
-audio_stop_all();
-audio_play_sound(snd_fireworks_fireworksFinale, 0, 1);

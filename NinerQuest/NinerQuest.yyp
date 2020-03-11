@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "301181af-4969-4364-b257-93dce864129d",
+            "Value": {
+                "id": "8f3d6b90-095f-4905-9025-ad4121e669eb",
+                "resourcePath": "sounds\\snd_credits_lightlessDawn\\snd_credits_lightlessDawn.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "31c87020-dc1f-4088-8238-e8bde1c2bed7",
             "Value": {
                 "id": "98b54570-c1db-47bc-ac52-8c112fd3085d",
@@ -564,6 +572,14 @@
                 "id": "56daaa68-506f-4c14-9a6c-a39c240d2bec",
                 "resourcePath": "objects\/obj_smallBlock\/obj_smallBlock.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4c591356-0038-46c0-8e14-4855770c0f24",
+            "Value": {
+                "id": "6d125dc5-da2e-445c-944f-64a1df3bd70e",
+                "resourcePath": "sounds\\snd_axeAppears_dropSword\\snd_axeAppears_dropSword.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1092,6 +1108,14 @@
                 "id": "88ab7201-163c-4207-ad60-c934fe464a09",
                 "resourcePath": "sprites\/waterbullet\/waterbullet.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9634a0f4-4656-4bae-9ab9-827890907929",
+            "Value": {
+                "id": "747ad04e-8342-48ce-b92b-bed66f81ea71",
+                "resourcePath": "sounds\\snd_rocksFalling_caveIn\\snd_rocksFalling_caveIn.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1743,6 +1767,14 @@
             }
         },
         {
+            "Key": "edc3ec76-ef25-439a-acae-84734f72d309",
+            "Value": {
+                "id": "d5bddb57-8f06-4351-949d-47e5846e9930",
+                "resourcePath": "sounds\\snd_playerShoot_skorpion\\snd_playerShoot_skorpion.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "eef4bf55-84e3-48d0-9e16-7f3e9599ab7d",
             "Value": {
                 "id": "e567cc29-0ce7-4c77-bca9-9923c7098d58",
@@ -1812,6 +1844,14 @@
                 "id": "35019fcb-91f0-460b-ab9f-31d39de755b7",
                 "resourcePath": "objects\/obj_mini_monster_lvl2\/obj_mini_monster_lvl2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f732f41e-c043-402b-baf8-e900a659cc68",
+            "Value": {
+                "id": "fb17db04-37d8-46a8-8c6d-39ce4140c6be",
+                "resourcePath": "sounds\\snd_axeSwing_swordSwing\\snd_axeSwing_swordSwing.yy",
+                "resourceType": "GMSound"
             }
         },
         {

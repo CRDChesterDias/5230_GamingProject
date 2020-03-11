@@ -20,6 +20,15 @@ else if hspeed != 0
 	}
 }
 
+if(keyboard_check(vk_space) && can_shoot == 0)
+{
+	audio_play_sound(snd_axeSwing_swordSwing, 0, 0);
+}
+else if(keyboard_check(vk_space) && can_shoot == 1)
+{
+	audio_play_sound(snd_playerShoot_skorpion, 0, 0);
+}
+
 if(player_faces_direction == facing_direction.up)
 {
 	if(has_axe == 1) //player has axe

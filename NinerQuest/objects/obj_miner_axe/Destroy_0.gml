@@ -1,0 +1,1 @@
+audio_play_sound(snd_axeAppears_dropSword, 0, 0);
