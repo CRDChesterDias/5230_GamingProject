@@ -15,6 +15,11 @@ dialogue_lines = "";
 
 //Create dialogues set for the introduction.
 intro_text = scr_add_dialogue("Press 'Enter' key to get the next line.", true);
+scr_add_dialogue("One fine afternoon, while roaming in the UNC Charlotte campus’ botanical gardens, you find a meteor-like object drop from the sky into a pond.", true);
+scr_add_dialogue("Upon going closer to where it crashed, you find that the meteor is actually an artefact surrounded by an unstable force field.", true);
+scr_add_dialogue("The force field explodes creating a switch between dimensions which causes all life on earth to be locked in limbo.", true);
+scr_add_dialogue("This also opens up a dimension of monsters who seem to be too obsessed with gold, that they start mining gold from in and around the UNC Charlotte campus.", true);
+scr_add_dialogue("What are these monsters? Where did they come from? Why do they need the gold? What needs to be done to revert this dimension switch and bring back everyone?", true);
 scr_add_dialogue("Now, it is all up to you to look for a solution to undo the switch in the dimensions.", true);
 scr_add_dialogue("It is better to start with looking for something or someone who has been here for more than 30 years and knows the campus well...", true);
 scr_add_dialogue("Press 'Escape' key...", true);
@@ -34,9 +39,9 @@ dialogue_lines = "";
 
 intro_text = scr_add_dialogue("Press 'Enter' key to get the next line.", true);
 scr_add_dialogue("Hey there 49er! So, you are the one who caused the switch in the dimensions!.", true);
-scr_add_dialogue("Your friends are all in a dimension less limbo and only you could bring them back!", true);
-scr_add_dialogue("But you might need to first fight against the ogres residing in different locations who are mining gold from the earth’s core!", true);
-scr_add_dialogue("“These ogres very dangerous and hence you will need a weapon to fight them.Here, take my pickaxe. All the best!", true);
+scr_add_dialogue("Your friends are all in a dimension-less limbo and you are the only one who could bring them back!", true);
+scr_add_dialogue("But first, you might need to fight against the monsters who are mining gold from the earth’s core!", true);
+scr_add_dialogue("These ogres very dangerous and hence you will need a weapon to fight them. Here, take my pickaxe. All the best!", true);
 scr_add_dialogue("Press 'Escape' key...", true);
 
 scr_start_dialogue(id, intro_text);
@@ -94,6 +99,9 @@ scr_add_dialogue("Grass - geloescht opengameart.org",true);
 scr_add_dialogue("2D Circle Graphic Archive art by Daniel Cook opengameart.org",true);
 scr_add_dialogue("Animated Castle Door by Tuomo Untinen opengameart.org",true);
 scr_add_dialogue("Game artwork by Snehal and Chester",true);
+scr_add_dialogue("Sound effects from soudbible.com",true);
+scr_add_dialogue("Background themes by Kevin MacLeod (incompetech.com)", true); 
+scr_add_dialogue("Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/", true);
 scr_add_dialogue("Created by Aparajitha Sriram, Akshay Babu, Snehal Kulkarni, Chester Dias",true);
 scr_add_dialogue("Press 'Escape' key...", true);
 scr_start_dialogue(id, intro_text);
